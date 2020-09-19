@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ema-zohn-simple/static/css/main.3106d8dc.chunk.css",
+    "main.js": "/ema-zohn-simple/static/js/main.06877264.chunk.js",
+    "main.js.map": "/ema-zohn-simple/static/js/main.06877264.chunk.js.map",
+    "runtime-main.js": "/ema-zohn-simple/static/js/runtime-main.49778bc7.js",
+    "runtime-main.js.map": "/ema-zohn-simple/static/js/runtime-main.49778bc7.js.map",
+    "static/js/2.d59f7996.chunk.js": "/ema-zohn-simple/static/js/2.d59f7996.chunk.js",
+    "static/js/2.d59f7996.chunk.js.map": "/ema-zohn-simple/static/js/2.d59f7996.chunk.js.map",
+    "index.html": "/ema-zohn-simple/index.html",
+    "precache-manifest.99ea55bca4290284fa0aab76f592dace.js": "/ema-zohn-simple/precache-manifest.99ea55bca4290284fa0aab76f592dace.js",
+    "service-worker.js": "/ema-zohn-simple/service-worker.js",
+    "static/css/main.3106d8dc.chunk.css.map": "/ema-zohn-simple/static/css/main.3106d8dc.chunk.css.map",
+    "static/js/2.d59f7996.chunk.js.LICENSE.txt": "/ema-zohn-simple/static/js/2.d59f7996.chunk.js.LICENSE.txt",
+    "static/media/giphy.gif": "/ema-zohn-simple/static/media/giphy.e800c846.gif",
+    "static/media/logo.svg": "/ema-zohn-simple/static/media/logo.5d5d9eef.svg",
+    "static/media/logo.png": "/ema-zohn-simple/static/media/logo.95f238a5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49778bc7.js",
+    "static/js/2.d59f7996.chunk.js",
+    "static/css/main.3106d8dc.chunk.css",
+    "static/js/main.06877264.chunk.js"
+  ]
+}
